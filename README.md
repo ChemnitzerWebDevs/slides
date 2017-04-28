@@ -8,7 +8,7 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 #### Echtzeit Webanwendungen mit RethinkDB und Websockets
 Tobias Gall | Master Student TU Chemnitz
 
-* [Presentation](https://)
+* [Presentation](https://github.com/ChemnitzerWebDevs/slides/blob/master/2017/April/Rethinkdb%20%26%20Websockets.pdf)
 
 #### I am developer
 Lars Wiedemann | Frontend-Developer (chemmedia AG)
