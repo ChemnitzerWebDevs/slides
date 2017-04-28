@@ -1,0 +1,28 @@
+body {
+	margin: 0;
+	background: #383838;
+}
+
+body::before {
+    border-width: 2px;
+    border-style: solid;
+    border-color: #008cff #4a4a4a #4a4a4a #4a4a4a;
+    content: "";
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -20px 0 0 -20px;
+    border-radius: 50%;
+    animation: loader .75s infinite linear;
+}
+
+@keyframes loader {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

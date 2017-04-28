@@ -1,0 +1,67 @@
+body {
+	margin: 0;
+	background: #f6f6e0;
+}
+
+.stage {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+    align-items: center;
+}
+
+.pizza {
+	width: 120px;
+	height: 120px;
+	background-color: #deb887;
+	border-radius: 50%;
+	border: 3px solid #c88937;
+	background-repeat: 
+		no-repeat,
+		no-repeat,
+		no-repeat,
+		no-repeat,
+		no-repeat,
+		no-repeat,
+		no-repeat,
+		no-repeat,
+		repeat,
+		repeat;
+	background-image:
+		radial-gradient(#b22222 50%, transparent 50%),
+		radial-gradient(#b22222 50%, transparent 50%),
+		radial-gradient(#b22222 50%, transparent 50%),
+		radial-gradient(#b22222 50%, transparent 50%),
+		radial-gradient(#b22222 50%, transparent 50%),
+		radial-gradient(#b22222 50%, transparent 50%),
+		radial-gradient(#b22222 50%, transparent 50%),
+		radial-gradient(#ffe970 50px, transparent 50px),
+		radial-gradient(#cd853f 15%, transparent 15%),
+		radial-gradient(#cd853f 15%, transparent 15%);
+	background-size:
+		24px 24px,
+		24px 24px,
+		24px 24px,
+		24px 24px,
+		24px 24px,
+		24px 24px,
+		24px 24px,
+		100% 100%,
+		10px,
+		10px;
+	background-position:
+		24px 26px,
+		52px 16px,
+		78px 36px, 
+		48px 46px, 
+		18px 54px, 
+		38px 76px, 
+		70px 68px,
+		0 0,
+		0 0,
+		5px 5px;
+}
