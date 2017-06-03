@@ -3,6 +3,14 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 
 ## 2017
 
+### Mai
+
+#### Dockerized Web Dev
+Holger Lösken | Software Developer (Sächsische Dampfschiffahrt GmbH)
+
+* Presentation (PDF version) - coming soon
+* [Presentation (Online version)](http://dockerized-web-dev.codedge.de)
+
 ### April
 
 #### Echtzeit Webanwendungen mit RethinkDB und Websockets
