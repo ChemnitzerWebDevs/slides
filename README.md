@@ -3,7 +3,7 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 
 ## 2017
 
-### Mai
+### May
 
 #### Dockerized Web Dev
 Holger Lösken | Software Developer (Sächsische Dampfschiffahrt GmbH)
