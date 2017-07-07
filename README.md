@@ -42,7 +42,7 @@ Martin Kutter | Software-Designer (chemmedia AG)
 
 #### SVG Sprites
 Ronny Hartenstein | Software-Engineer (Axilaris GmbH)
-* [Presentation](2017/March/SVG Sprites/Presentation - SVG Sprites in a nutshell.pdf)
+* [Presentation](2017/March/SVG Sprites/Presentation%20-%20SVG%20Sprites%20in%20a%20nutshell.pdf)
 * [Example](http://blog.rh-flow.de/svg-sprites-demo/index.html)
 
 #### I am developer
