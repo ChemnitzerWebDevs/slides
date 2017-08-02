@@ -3,6 +3,12 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 
 ## 2017
 
+### July
+
+####  AMPlify your online-shop
+Karsten Eger | Web-Developer (biker-boarder.de)
+  * [Presentation](2017/07-July/AMPlify%20your%20online-shop.pdf)
+  
 ### June
 
 #### API Specification Essentials
