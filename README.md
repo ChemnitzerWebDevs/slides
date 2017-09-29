@@ -17,6 +17,7 @@ Amadeus Alfa
 
 ### create-react-app
 Martin Kutter | Software-Designer (chemmedia AG)
+  * [Presentation](2017/08-August/Create-React-App-martinkutter.pdf)
 
 ### July
 
