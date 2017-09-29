@@ -14,6 +14,7 @@ Lars Wiedemann | Frontend-Developer (vivamera)
 
 ### Von den Bedürfnissen eines Webservers
 Amadeus Alfa
+  * [Presentation](2017/08-August/Von-den-Beduerfnissen-eines-Webservers-amadeusalfa.pdf)
 
 ### create-react-app
 Martin Kutter | Software-Designer (chemmedia AG)
