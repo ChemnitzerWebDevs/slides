@@ -3,6 +3,21 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 
 ## 2017
 
+### September
+
+#### GraphQL aus Frontend Sicht
+Lars Wiedemann | Frontend-Developer (vivamera)
+  * [Presentation](2017/09-September/GraphQL.pdf)
+  * [Repository](//github.com/gernsdorfer/graphql-apollo-typecript)
+  
+### August
+
+### Von den Bedürfnissen eines Webservers
+Amadeus Alfa
+
+### create-react-app
+Martin Kutter | Software-Designer (chemmedia AG)
+
 ### July
 
 ####  AMPlify your online-shop
