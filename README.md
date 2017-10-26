@@ -3,6 +3,12 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 
 ## 2017
 
+### October
+
+#### composer.json - What's in and why?
+Frank Giesecke | Backend-Developer (vivamera)
+  * [Presentation](2017/10-October/composer.json.pdf)
+
 ### September
 
 #### GraphQL aus Frontend Sicht
