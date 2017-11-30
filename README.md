@@ -3,6 +3,13 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 
 ## 2017
 
+### November
+
+#### React Native: App Entwicklung auf Pilzen
+Ronny Hartenstein | Fullstack-Developer (Axilaris GmbH)
+  * [Presentation](2017/11-November/react_native.pdf)
+  * [Repository](//github.com/ronnyhartenstein/pilzliste-react-native-redux)
+
 ### October
 
 #### composer.json - What's in and why?
