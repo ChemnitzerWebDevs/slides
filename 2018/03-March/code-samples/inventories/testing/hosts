@@ -1,0 +1,19 @@
+[webservers]
+server.url
+
+[webservers:vars]
+env=testing
+git_branch=develop
+
+[all:vars]
+ansible_connection=ssh
+ansible_user=user
+ansible_host=server.name.tld
+
+deploy_user={{ ansible_user }}
+deploy_group=www-data
+deploy_email_to=it@company.com
+
+current_path=/home/www/{{ deploy_user }}/current
+shared_path=/home/www/{{ deploy_user }}/shared
+releases_path=/home/www/{{ deploy_user }}/releases

@@ -1,0 +1,10 @@
+- name: Clean old releases
+  shell: "ls -tp | grep '/$' | tail -n +{{ keep_releases|string }} | xargs -I {} rm -rf {}"
+  args:
+      chdir: "{{ releases_path }}"
+
+- name: Inform Bugsnag
+  uri:
+    url: https://notify.bugsnag.com/deploy
+    method: POST
+    body: "apiKey={{ bugsnag_api_key }}&releaseStage={{ env }}&repository='{{ application_git_url }}'&revision={{ git_revision }}&branch='{{ git_branch }}'}"

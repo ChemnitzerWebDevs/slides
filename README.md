@@ -1,6 +1,16 @@
 # WebDeveloperChemnitz
 Place to share presentation material from the monthly Web Developer Meetup in Chemnitz
 
+## 2018
+
+### March
+
+#### Deployment von Web Applications mit Ansible
+Holger Lösken | Software Developer (Sächsische Dampfschiffahrt GmbH)
+* Presentation(2018/03-March/Deployment von Web Applications mit Ansible.pdf)
+* [Presentation (Online version)](http://ansible-presentation.codedge.de/)
+
+
 ## 2017
 
 ### November

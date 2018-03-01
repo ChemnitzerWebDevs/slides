@@ -1,0 +1,5 @@
+- include_tasks: init.yml
+- include_tasks: git.yml
+- include_tasks: links.yml
+- include_tasks: reboot.yml
+- include_tasks: post_tasks.yml

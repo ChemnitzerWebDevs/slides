@@ -1,0 +1,20 @@
+- name: Generate release timestamp
+  command: date +%Y%m%d%H%M%S
+  register: timestamp
+  run_once: true
+
+- set_fact: "release_path='{{ releases_path }}/{{ timestamp.stdout }}'"
+
+- name: Setting migrate
+  set_fact: migrate={{ migrate|bool }}
+  when: migrate is defined
+- set_fact: migrate=false
+  when: migrate is not defined
+
+- name: Setting keep_releases
+  set_fact: keep_releases={{ keep_releases|int }}
+  when: keep_releases is defined
+
+# This sets the release count to 5, needs 5 + 1 = 6 in total ;-)
+- set_fact: keep_releases={{ 6|int }}
+  when: keep_releases is not defined

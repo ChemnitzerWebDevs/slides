@@ -1,0 +1,22 @@
+- name: Make main folder writeable for webserver
+  file: "path={{ release_path }}/{{ item }} owner={{deploy_user}} group={{ deploy_group }} mode=775"
+  with_items:
+    - "src"
+    - "src/wp-content"
+    - "src/wp-content/plugins"
+
+- name: Set permission for wflogs/
+  file: "path={{ release_path }}/src/wp-content/wflogs owner={{deploy_user}} group={{ deploy_group }} mode=775 recurse=yes"
+
+- name: Update current symlink
+  file: "state=link path={{ current_path }} src={{ release_path }}"
+
+- name: Refresh cache
+  command: "wp cache flush"
+  args:
+    chdir: "{{ current_path }}/src"
+
+- name: Refresh WP Fastest Cache
+  shell: /bin/rm -rf {{ shared_path }}/src/wp-content/cache/*
+  become: yes
+  become_user: www-data

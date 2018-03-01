@@ -1,0 +1,21 @@
+- name: Update git repository
+  shell: "git fetch && git reset --hard origin/master"
+  args:
+    chdir: "{{ shared_path }}/cached-copy"
+
+- name: Get latest Git hash
+  command: git log -n 1 --pretty=format:'%H'
+  register: git_revision
+  args:
+    chdir: "{{ shared_path }}/cached-copy"
+
+- name: Create release directory
+  file: "state=directory owner='{{ deploy_user }}' path='{{ release_path }}'"
+
+- name: Copy the cached git repository
+  shell: "cp -r {{ shared_path }}/cached-copy/. {{ release_path }}"
+
+- name: Git checkout
+  shell: "git checkout {{ git_branch }}"
+  args:
+    chdir: "{{ release_path }}"

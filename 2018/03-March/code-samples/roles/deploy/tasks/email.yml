@@ -1,0 +1,37 @@
+- name: 'capture: sha'
+  run_once: true
+  register: deploy_email_git_sha
+  shell: >
+    cd {{ release_path }} &&
+    git rev-parse HEAD
+
+- name: 'capture: deployer_email'
+  run_once: true
+  register: deploy_email_deployer_email
+  shell: >
+    cd {{ release_path }} &&
+    git log -1 --pretty="%ce"
+
+- name: 'capture: branch'
+  run_once: true
+  register: deploy_email_branch
+  shell: >
+    cd {{ release_path }} &&
+    git rev-parse --abbrev-ref HEAD
+
+- name: 'capture: human date'
+  run_once: true
+  register: deploy_email_human_date
+  shell: date
+
+- name: build the deploy email body
+  run_once: true
+  local_action: template
+  args:
+    src: deploy_email.html.j2
+    dest: /tmp/deploy_email.html
+
+- name: send the deploy email
+  run_once: true
+  when: no_email is not defined or no_email == false
+  local_action: shell sendmail {{ deploy_email_to }} < /tmp/deploy_email.html

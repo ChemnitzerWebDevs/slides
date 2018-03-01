@@ -1,0 +1,21 @@
+- set_fact:
+    db_filename: "dump-{{ ansible_env.WP_DB_DATABASE }}-{{ ansible_date_time.date }}_{{ ansible_date_time.time }}.sql"
+
+- name: Create MySql dump
+  mysql_db:
+    state: dump
+    name: "{{ ansible_env.WP_DB_DATABASE }}"
+    login_user: "{{ ansible_env.WP_DB_USERNAME }}"
+    login_password: "{{ ansible_env.WP_DB_PASSWORD }}"
+    target: "shared/{{ db_filename }}"
+
+- name: Fetch dump
+  fetch:
+    src: "{{ shared_path }}/{{ db_filename }}"
+    dest: ../
+    flat: yes
+
+- name: Delete dump on remote system
+  file: path="{{ shared_path}}/{{ item }}" state=absent
+  with_items:
+    - "{{ db_filename }}"
