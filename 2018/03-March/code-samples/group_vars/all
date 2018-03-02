@@ -1,0 +1,5 @@
+application_git_url_base: git@bitbucket.org
+application_git_url_team: team
+application_git_url: "{{ application_git_url_base }}:{{ application_git_url_team }}/reponame.git"
+
+bugsnag_api_key: 123456

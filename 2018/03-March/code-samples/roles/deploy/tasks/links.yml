@@ -1,0 +1,12 @@
+- name: Remove shared folder
+  file: "path={{ release_path }}/src/wp-content/{{ item }} state=absent"
+  with_items:
+    - "uploads"
+    - "cache"
+
+- name: Symlink shared content
+  file: "src={{ shared_path }}/src/{{ item }} dest={{ release_path }}/src/{{ item }} group={{ deploy_group }} mode=775 state=link"
+  with_items:
+    - "wp-config.php"
+    - "wp-content/uploads"
+    - "wp-content/cache"
