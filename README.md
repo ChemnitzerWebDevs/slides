@@ -3,6 +3,12 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 
 ## 2018
 
+### April
+
+#### Schnelle Integration-Tests mit BrowserKit
+Ronny Hartenstein | Web-Developer (Axilaris GmbH)
+  * [Presentation](2018/04-April/Schnelle_Integration-Tests_mit_BrowserKit.pdf)
+
 ### March
 
 #### Deployment von Web Applications mit Ansible
