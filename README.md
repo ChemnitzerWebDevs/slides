@@ -3,6 +3,11 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 
 ## 2018
 
+### May
+#### Schnelle Integration-Tests mit BrowserKit
+Frank Strieter | Web-Developer [co-IT.eu GmbH](https://co-it.eu)
+* [Presentation](2018/05-May/wdc-2018-05-31-angular.pdf)
+
 ### March
 
 #### Schnelle Integration-Tests mit BrowserKit
