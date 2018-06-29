@@ -3,6 +3,12 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 
 ## 2018
 
+### June
+#### Vue.js
+Morris Jobke | Senior Software Engineer [Nextcloud GmbH](https://nextcloud.com)
+* [Presentation](2018/06-June/Presentation.pdf)
+* [Repository](https://github.com/MorrisJobke/getting-started-with-vuejs)
+
 ### May
 #### Angular
 Frank Strieter | Web-Developer [co-IT.eu GmbH](https://co-it.eu)
