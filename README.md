@@ -3,6 +3,11 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 
 ## 2018
 
+### August
+#### Progressive Web Apps
+[Peter Kröner](https://www.peterkroener.de/)
+* [Presentation](https://files.peterkroener.de/slides/pwa60/)
+
 ### June
 #### Vue.js
 Morris Jobke | Senior Software Engineer [Nextcloud GmbH](https://nextcloud.com)
