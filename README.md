@@ -11,7 +11,7 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 ### July
 #### Web-Push Notifications - One Signal
 Tobias Gall | System Administrator [TU Chemnitz](https://tu-chemnitz.de)
-* [Presentation](2018/06-July/OneSignal_TheaterWecker.pdf)
+* [Presentation](2018/07-July/OneSignal_TheaterWecker.pdf)
 
 ### June
 #### Vue.js
