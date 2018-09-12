@@ -3,6 +3,11 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 
 ## 2018
 
+### August
+#### Progressive Web Apps
+[Peter Kröner](https://www.peterkroener.de/)
+* [Presentation](https://files.peterkroener.de/slides/pwa60/)
+
 ### July
 #### Web-Push Notifications - One Signal
 Tobias Gall | System Administrator [TU Chemnitz](https://tu-chemnitz.de)
