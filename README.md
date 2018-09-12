@@ -8,6 +8,11 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 [Peter Kröner](https://www.peterkroener.de/)
 * [Presentation](https://files.peterkroener.de/slides/pwa60/)
 
+### July
+#### Web-Push Notifications - One Signal
+Tobias Gall | System Administrator [TU Chemnitz](https://tu-chemnitz.de)
+* [Presentation](2018/06-July/OneSignal_TheaterWecker.pdf)
+
 ### June
 #### Vue.js
 Morris Jobke | Senior Software Engineer [Nextcloud GmbH](https://nextcloud.com)
