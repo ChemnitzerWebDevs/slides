@@ -3,6 +3,11 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 
 ## 2018
 
+### September
+#### Learnings from Laravel
+Ronny Hartenstein | PHP-Enthusiast [Axilaris GmbH](https://axilaris.de)
+* [Presentation](2018/09-September/Learnings_from_Laravel.pdf)  ([with speaker notes](2018/09-September/Learnings_from_Laravel-with_notes.pdf))
+
 ### August
 #### Progressive Web Apps
 [Peter Kröner](https://www.peterkroener.de/)
@@ -27,10 +32,6 @@ Frank Strieter | Web-Developer [co-IT.eu GmbH](https://co-it.eu)
 
 ### March
 
-#### Schnelle Integration-Tests mit BrowserKit
-Ronny Hartenstein | Web-Developer (Axilaris GmbH)
-* [Presentation](2018/03-March/Schnelle_Integration-Tests_mit_BrowserKit.pdf)
-
 #### PHP 7.0 / 7.1 / 7.2 - All New Features By Code
 Daniel Schröder | Chief Executive And Web-Architect (skriptfabrik GmbH)
 * [Presentation](2018/03-March/PHP7-All_New_Features_By_Code.pdf)
@@ -39,6 +40,10 @@ Daniel Schröder | Chief Executive And Web-Architect (skriptfabrik GmbH)
 Holger Lösken | Software Developer (Sächsische Dampfschiffahrt GmbH)
 * [Presentation](2018/03-March/Deployment%20von%20Web%20Applications%20mit%20Ansible.pdf)
 * [Presentation (Online version)](http://ansible-presentation.codedge.de/)
+
+#### Schnelle Integration-Tests mit BrowserKit
+Ronny Hartenstein | Web-Developer [Axilaris GmbH](https://axilaris.de)
+* [Presentation](2018/03-March/Schnelle_Integration-Tests_mit_BrowserKit.pdf)
 
 ## 2017
 
