@@ -3,6 +3,11 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 
 ## 2018
 
+### Oktober
+#### git advanced
+Morris Jobke | [Nextcloud](https://github.com/nextcloud) maintainer [Nextcloud GmbH](https://nextcloud.com)
+* [Presentation](2018/10-Oktober/git advanced.pptx)  ([Google Drive Version](https://docs.google.com/presentation/d/1BiwyauHiIj9HaMs8HNujS-4saoF_X0fC1j7_tyVabVI/edit?usp=sharing))
+
 ### September
 #### Learnings from Laravel
 Ronny Hartenstein | PHP-Enthusiast [Axilaris GmbH](https://axilaris.de)
