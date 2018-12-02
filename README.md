@@ -3,6 +3,11 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 
 ## 2018
 
+### November
+#### Kosten runter, Komfort rauf - Smart Home für Fortgeschrittene
+Andy Homburg | [Axilaris GmbH](https://axilaris.de) 
+* [Presentation](2018/11-November/fhem-smarthome.pptx)  
+
 ### Oktober
 #### git advanced
 Morris Jobke | [Nextcloud](https://github.com/nextcloud) maintainer [Nextcloud GmbH](https://nextcloud.com)
@@ -33,7 +38,7 @@ Morris Jobke | Senior Software Engineer [Nextcloud GmbH](https://nextcloud.com)
 #### Angular
 Frank Strieter | Web-Developer [co-IT.eu GmbH](https://co-it.eu)
 * [Presentation](2018/05-May/wdc-2018-05-31-angular.pdf)
-* [Repository](//github.com/Strulle/wdc-angular)
+* [Repository](https://github.com/Strulle/wdc-angular)
 
 ### March
 
@@ -57,7 +62,7 @@ Ronny Hartenstein | Web-Developer [Axilaris GmbH](https://axilaris.de)
 #### React Native: App Entwicklung auf Pilzen
 Ronny Hartenstein | Fullstack-Developer (Axilaris GmbH)
 * [Presentation](2017/11-November/react_native.pdf)
-* [Repository](//github.com/ronnyhartenstein/pilzliste-react-native-redux)
+* [Repository](https://github.com/ronnyhartenstein/pilzliste-react-native-redux)
 
 ### October
 
@@ -70,7 +75,7 @@ Frank Giesecke | Backend-Developer (vivamera)
 #### GraphQL aus Frontend Sicht
 Lars Wiedemann | Frontend-Developer (vivamera)
 * [Presentation](2017/09-September/GraphQL.pdf)
-* [Repository](//github.com/gernsdorfer/graphql-apollo-typecript)
+* [Repository](https://github.com/gernsdorfer/graphql-apollo-typecript)
   
 ### August
 
@@ -93,7 +98,7 @@ Karsten Eger | Web-Developer (biker-boarder.de)
 #### API Specification Essentials
 Daniel Schröder | Freelancer
 * [Presentation](2017/06-June/Presentation%20-%20API%20Specification%20Language%20Essentials.pdf)
-* [Repository](//github.com/schroedan/api-spec-lang-talk)
+* [Repository](https://github.com/schroedan/api-spec-lang-talk)
 
 #### I am developer
 Karsten Eger | Web-Developer (biker-boarder.de)
@@ -146,4 +151,4 @@ Ronny Hartenstein | Software-Engineer (Axilaris GmbH)
 Lars Wiedemann | Frontend-Developer (chemmedia AG)
 Martin Kutter | Software-Designer (chemmedia AG)
 * [Presentation](2017/02-February/Presentation%20-%20REDUX%20in%20modernen%20Webanwendungen.pdf)
-* [Repository](//github.com/gernsdorfer/react-shop)
+* [Repository](https://github.com/gernsdorfer/react-shop)
