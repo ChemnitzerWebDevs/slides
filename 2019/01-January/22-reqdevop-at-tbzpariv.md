@@ -1,5 +1,4 @@
-
-==== Ziele ====
+# Ziele
   * Firma vorstellen, da wir Mitarbeiter suchen.
   * Nützliches mitteilen: 
     * Entwicklungen/Erkenntnisse der letzten Jahre (Vogelperspektive, keine Details)
@@ -11,13 +10,13 @@
   * Es wird ein subjektiver Vortrag.
   * Meine persönliche Perspektive - andere Mitarbeiter sehen das ggf ganz anders.
 
-==== me: Thomas Güttler ====
+# me: Thomas Güttler
   * Baujahr 1976 - Heute 43 Jahre
   * Schule in Bayreuth
   * Informatikstudium 1996-2001 HTW Dresden.
   * Seit 2003 bei tbz-pariv. 15 Jahre.
 
-==== Firma: tbz-pariv ====
+# Firma: tbz-pariv
   * Mittelständiges Unternehmen
   * Gegründet 1993, 30 Mitarbeiter. 25 Jähriges wurde im Max-Louis in der Schönherrfabrik gefeiert.
   * Wir machen kaum Akquise. Zufriedenen Kunden (Energieversorger) machen Werbung für uns.
@@ -37,10 +36,8 @@
       * Summe: Pro Jahr 1.8 Mio Belege
       * 10 Produktivsysteme
 
-==== ReqDevOpSup ====
-
+# ReqDevOpSup
 ReqDevOpSup, mehr als DevOp. Spannend trotz Alltag bei TBZ-PARV.
-
 
   * Requirement-Engineering
   * Development
@@ -51,8 +48,7 @@ Eine Übersicht über unseren "Full-Stack" Arbeitsbereich.
 
 Tools: Python, Django, PostgreSQL, Linux
 
-
-==== Requirement-Engineering ====
+## Requirement-Engineering
   * Requirement-Engineering beginnt bei uns nach der Auftragserteilung (Spaß)
     * Kunde will was, Chef und Kunde haben sich preislich irgendwie geeinigt. Los geht's.
     * Als Software-Entwickler steht man dann oft da: Hmm was soll da eigentlich gemacht werden.
@@ -86,7 +82,8 @@ Tools: Python, Django, PostgreSQL, Linux
     * Die vagen und unklaren Aufträge haben aktuell mehr Vor- als Nachteile.
     * Insbesondere wenn es dann doch nichts wird mit dem Auftrag, dann wurde nicht viel Zeit der Spezifikation verschwendet.
   * Requirements-Engineering ein weites Feld und für mich gibt es hier noch viel zu lernen.
-==== Dev ====
+
+## Dev
   * Wenn man zB Klettern oder Langstreckenlauf macht ist klar: Man braucht passendes Material
     * Seil, Karabiner oder beim Laufen ordentliche Turnschuhe.
   * Bei Softwareentwicklung genauso: stabile und zuverlässige Werkzeuge zum Datenpogo
@@ -128,7 +125,8 @@ Tools: Python, Django, PostgreSQL, Linux
     * Quelltext funktioniert täglich beim Kunden.
     * Es gibt keinen mehr der alles kennt. Zu Umfangreich, zu alt.
     * Was tun, wenn man nicht durchblickt? looks_like_dead_code('2018-07-11 tguettler: topline looks unused?')
-==== Operation ====
+
+## Operation
   * Betreuen der Server
   * Freitag Abend will man mit seinen Freunden am Lagerfeuer sitzen, ein Bierchen trinken und sich Geschichten erzählen.
   * Darum ist es sehr uncool wenn Freitag kurz vor Schluss der Kunde anruft: Platte voll! Jetzt handeln - Freunden absagen wegen Aktion Feuerwehr .. NEIN
@@ -154,7 +152,7 @@ Tools: Python, Django, PostgreSQL, Linux
     * Logs werden auf dem Hosts ausgewertet.
     * Alles, was nicht LogLevel INFO ist, geht an den Serverüberwacher.
 
-==== Support ====
+## Support
   * Betreuen der Nutzer
   * Wir haben keinen First-Level-Support.
   * Anrufe kommen direkt beim Entwickler an.
@@ -181,8 +179,7 @@ Tools: Python, Django, PostgreSQL, Linux
       * Aktuell ist die Anzahl der Interrupts ok.
   * Manchmal denkt man sich "der Kunde ist doof, der kann/weiß nicht mal ...". ABER: Das ist doch der Vorteil. Darum braucht er dich. Der Kunde will sich nicht mit Details herum ärgern.
 
-
-==== Open Source von uns ====
+# Open Source von uns
   * Open Source macht Sinn und Spaß.
   * Fragen+Antworten bei StackOverflow
   * kleine Patches zu Django oder anderen Libs.
@@ -191,7 +188,7 @@ Tools: Python, Django, PostgreSQL, Linux
       * http "201 Created" wenn das 
     * FTP server context manager for testing ftp client code 
 
-==== Ausblick ====
+# Ausblick
   * Noch andere Bereiche: SAP-Schnittstellen, Layout, Druck, Kuvertierung, Scan, OCR
   * Zukunft
   * Machine-Learning: Automatisches Erkennen von Belegarten.
@@ -214,7 +211,8 @@ Tools: Python, Django, PostgreSQL, Linux
     * ... vertiefen.
   * Chemnitzer-Linux-Tage am Python-Stand.
   * Mir macht die Arbeit bei tbz Spaß - Wer dabei sein will, bitte melden.
-==== Fragen ====
+
+# Fragen
   * Auf Niveau von jquery bleiben oder "große" JS Lib nehmen?
     * Django wird degradiert zum Input/Output von Daten (Django-Rest-Framework). Zum Browser kommt JSON, Dort zaubert eine Lib ... großer Schritt
   * Mehr Code-Review und Pair-Programming?
@@ -224,5 +222,5 @@ Tools: Python, Django, PostgreSQL, Linux
   * Pam noch nicht bei uns ... aber andere nette Menschen. Wie findet man einen Linux-Admin und/oder einen Web-Entwickler in Chemnitz?
   * Fragen aus dem Publikum?
 
-==== Quellen ====
+# Quellen
   * https://github.com/guettli/programming-guidelines

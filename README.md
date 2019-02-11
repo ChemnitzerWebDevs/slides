@@ -1,6 +1,13 @@
 # WebDeveloperChemnitz
 Place to share presentation material from the monthly Web Developer Meetup in Chemnitz
 
+## 2019
+
+### January
+#### ReqDevOp
+Thomas Güttler | [TBZ-PARIV GmbH](https://www.tbz-pariv.de)
+* [Notes](2019/01-January/22-reqdevop-at-tbzpariv.md)  
+
 ## 2018
 
 ### November
