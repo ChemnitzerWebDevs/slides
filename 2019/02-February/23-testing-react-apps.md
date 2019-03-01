@@ -1,0 +1,3 @@
+- [Slides](testing-react-apps.pdf)
+- [Calculator demo app](https://github.com/helgenlechner/neckband-calculator)
+- [Property-based testing demo](https://github.com/helgenlechner/property-based-testing)
