@@ -3,6 +3,11 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 
 ## 2019
 
+### February
+#### Testing React Apps
+Bettina Helgennlechner | [chemmedia AG](https://www.chemmedia.de)
+* [Notes](2019/02-February/23-testing-react-apps.md)
+
 ### January
 #### ReqDevOp
 Thomas Güttler | [TBZ-PARIV GmbH](https://www.tbz-pariv.de)
@@ -61,6 +66,11 @@ Holger Lösken | Software Developer (Sächsische Dampfschiffahrt GmbH)
 #### Schnelle Integration-Tests mit BrowserKit
 Ronny Hartenstein | Web-Developer [Axilaris GmbH](https://axilaris.de)
 * [Presentation](2018/03-March/Schnelle_Integration-Tests_mit_BrowserKit.pdf)
+
+### January
+#### React/Redux Performance
+Bettina Helgennlechner | [chemmedia AG](https://www.chemmedia.de)
+* [Slides](https://slides.com/helgenlechner/react-redux-performance)
 
 ## 2017
 
