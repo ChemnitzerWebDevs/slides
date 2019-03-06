@@ -21,7 +21,7 @@ We are happy to help!
 
 ## Preferred date/time
 
-- 
+- ...
 
 ## Speaker names
 (Please name all speakers giving this talk.)
@@ -29,14 +29,14 @@ We are happy to help!
 - Your full name here
 
 ## Speakers info
-(Optional, your company, your position, etc.)
+(Optional)
 
-- 
+- Your company, your position, etc.
 
 ## Twitter handle(s)
-(Optional, we usually announce speakers via https://twitter.com/phpugdd)
+(Optional, we usually announce speakers via https://twitter.com/webdevchem)
 
-- https://twitter.com/...
+- @webdevchem
 
 ## Other links
 (Optional, Blog, github, medium, facebook, etc.)
