@@ -3,6 +3,11 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 
 ## 2019
 
+### March
+#### Clean Code
+Lars Wiedemann | [skriptfabrik GmbH](https://www.skriptfabrik.com/)
+* [Notes](2019/03-March/24-clean-code.md)
+
 ### February
 #### Testing React Apps
 Bettina Helgennlechner | [chemmedia AG](https://www.chemmedia.de)
