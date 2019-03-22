@@ -1,0 +1,2 @@
+- [Agenda](agenda.pdf)
+- [Clean-Code](clean-code.pdf)
