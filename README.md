@@ -3,6 +3,11 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 
 ## 2019
 
+### April
+#### Continuous Integration & Drone CI
+Morris Jobke | [Nextcloud](https://github.com/nextcloud) maintainer [Nextcloud GmbH](https://nextcloud.com) [morrisjobke.de](https://morrisjobke.de)
+* [Slides](2019/04-April/Continuous Integration with Drone CI.pdf)
+
 ### March
 #### Clean Code
 Lars Wiedemann | [skriptfabrik GmbH](https://www.skriptfabrik.com/)
