@@ -32,7 +32,7 @@ Andy Homburg | [Axilaris GmbH](https://axilaris.de)
 
 ### Oktober
 #### git advanced
-Morris Jobke | [morrisjobke.de](https://morrisjobke.de) | [Nextcloud](https://github.com/nextcloud) maintainer at [Nextcloud GmbH](https://nextcloud.com)
+Morris Jobke | [Nextcloud](https://github.com/nextcloud) maintainer at [Nextcloud GmbH](https://nextcloud.com)
 * [Presentation](2018/10-Oktober/git advanced.pptx) ([Google Drive Version](https://docs.google.com/presentation/d/1BiwyauHiIj9HaMs8HNujS-4saoF_X0fC1j7_tyVabVI/edit?usp=sharing))
 
 ### September
@@ -52,7 +52,7 @@ Tobias Gall | System Administrator at [TU Chemnitz](https://tu-chemnitz.de)
 
 ### June
 #### Vue.js
-Morris Jobke | Senior software engineer at [Nextcloud GmbH](https://nextcloud.com)
+Morris Jobke | Senior Software-Engineer at [Nextcloud GmbH](https://nextcloud.com)
 * [Presentation](2018/06-June/Presentation.pdf)
 * [Repository](https://github.com/MorrisJobke/getting-started-with-vuejs)
 
