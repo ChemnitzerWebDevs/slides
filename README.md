@@ -45,7 +45,7 @@ Andy Homburg | [Axilaris GmbH](https://axilaris.de)
 ### Oktober
 #### git advanced
 Morris Jobke | [Nextcloud](https://github.com/nextcloud) maintainer at [Nextcloud GmbH](https://nextcloud.com)
-* [Presentation](2018/10-Oktober/git advanced.pptx) ([Google Drive Version](https://docs.google.com/presentation/d/1BiwyauHiIj9HaMs8HNujS-4saoF_X0fC1j7_tyVabVI/edit?usp=sharing))
+* [Presentation](2018/10-Oktober/git%20advanced.pptx) ([Google Drive Version](https://docs.google.com/presentation/d/1BiwyauHiIj9HaMs8HNujS-4saoF_X0fC1j7_tyVabVI/edit?usp=sharing))
 
 ### September
 #### Learnings from Laravel
@@ -175,7 +175,7 @@ Martin Kutter | Software-Designer at [chemmedia AG](https://www.chemmedia.de)
 
 #### SVG Sprites
 Ronny Hartenstein | Software-Engineer at [Axilaris GmbH](https://axilaris.de)
-* [Presentation](2017/03-March/SVG Sprites/Presentation%20-%20SVG%20Sprites%20in%20a%20nutshell.pdf)
+* [Presentation](2017/03-March/SVG%20Sprites/Presentation%20-%20SVG%20Sprites%20in%20a%20nutshell.pdf)
 * [Example](http://blog.rh-flow.de/svg-sprites-demo/index.html)
 
 #### I am developer
