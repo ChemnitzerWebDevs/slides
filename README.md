@@ -33,12 +33,12 @@ Andy Homburg | [Axilaris GmbH](https://axilaris.de)
 ### Oktober
 #### git advanced
 Morris Jobke | [morrisjobke.de](https://morrisjobke.de) | [Nextcloud](https://github.com/nextcloud) maintainer at [Nextcloud GmbH](https://nextcloud.com)
-* [Presentation](2018/10-Oktober/git advanced.pptx)  ([Google Drive Version](https://docs.google.com/presentation/d/1BiwyauHiIj9HaMs8HNujS-4saoF_X0fC1j7_tyVabVI/edit?usp=sharing))
+* [Presentation](2018/10-Oktober/git advanced.pptx) ([Google Drive Version](https://docs.google.com/presentation/d/1BiwyauHiIj9HaMs8HNujS-4saoF_X0fC1j7_tyVabVI/edit?usp=sharing))
 
 ### September
 #### Learnings from Laravel
 Ronny Hartenstein | PHP enthusiast at [Axilaris GmbH](https://axilaris.de)
-* [Presentation](2018/09-September/Learnings_from_Laravel.pdf)  ([with speaker notes](2018/09-September/Learnings_from_Laravel-with_notes.pdf))
+* [Presentation](2018/09-September/Learnings_from_Laravel.pdf) ([with speaker notes](2018/09-September/Learnings_from_Laravel-with_notes.pdf))
 
 ### August
 #### Progressive Web Apps
@@ -52,7 +52,7 @@ Tobias Gall | System Administrator at [TU Chemnitz](https://tu-chemnitz.de)
 
 ### June
 #### Vue.js
-Morris Jobke | [morrisjobke.de](https://morrisjobke.de) | Senior software engineer at [Nextcloud GmbH](https://nextcloud.com)
+Morris Jobke | Senior software engineer at [Nextcloud GmbH](https://nextcloud.com)
 * [Presentation](2018/06-June/Presentation.pdf)
 * [Repository](https://github.com/MorrisJobke/getting-started-with-vuejs)
 
@@ -69,7 +69,7 @@ Daniel Schröder | Chief Executive and Web-Architect at [skriptfabrik GmbH](http
 * [Presentation](2018/03-March/PHP7-All_New_Features_By_Code.pdf)
 
 #### Deployment von Web Applications mit Ansible
-Holger Lösken | Software-Developer at [Sächsische Dampfschiffahrt GmbH](https://www.saechsische-dampfschiffahrt.de)
+Holger Lösken | Software-Developer at Sächsische Dampfschiffahrt GmbH
 * [Presentation](2018/03-March/Deployment%20von%20Web%20Applications%20mit%20Ansible.pdf)
 * [Presentation (Online version)](http://ansible-presentation.codedge.de/)
 
@@ -94,13 +94,13 @@ Ronny Hartenstein | Fullstack-Developer at [Axilaris GmbH](https://axilaris.de)
 ### October
 
 #### composer.json - What's in and why?
-Frank Giesecke | Backend-Developer at [skriptfabrik GmbH](https://skriptfabrik.com)
+Frank Giesecke | Backend-Developer at VIVAMERA GmbH
 * [Presentation](2017/10-October/composer.json.pdf)
 
 ### September
 
 #### GraphQL aus Frontend Sicht
-Lars Wiedemann | Frontend-Developer at [skriptfabrik GmbH](https://skriptfabrik.com)
+Lars Wiedemann | Frontend-Developer at VIVAMERA GmbH
 * [Presentation](2017/09-September/GraphQL.pdf)
 * [Repository](https://github.com/gernsdorfer/graphql-apollo-typecript)
   
@@ -117,31 +117,31 @@ Martin Kutter | Software-Designer at [chemmedia AG](https://www.chemmedia.de)
 ### July
 
 ####  AMPlify your online-shop
-Karsten Eger | Web-Developer at [biker-boarder.de](http://biker-boarder.de)
+Karsten Eger | Web-Developer at biker-boarder.de
 * [Presentation](2017/07-July/AMPlify%20your%20online-shop.pdf)
   
 ### June
 
 #### API Specification Essentials
-Daniel Schröder | Chief Executive and Web-Architect at [skriptfabrik GmbH](https://skriptfabrik.com)
+Daniel Schröder | Freelancer
 * [Presentation](2017/06-June/Presentation%20-%20API%20Specification%20Language%20Essentials.pdf)
 * [Repository](https://github.com/schroedan/api-spec-lang-talk)
 
 #### I am developer
-Karsten Eger | Web-Developer at [biker-boarder.de](https://biker-boarder.de)
+Karsten Eger | Web-Developer at biker-boarder.de
 * [Presentation](2017/06-June/I%20am%20developer/karsteneger-iamadeveloper.pdf)
 
 ### May
 
 #### Dockerized Web Dev
-Holger Lösken | Software Developer at [Sächsische Dampfschiffahrt GmbH](https://www.saechsische-dampfschiffahrt.de)
+Holger Lösken | Software Developer at Sächsische Dampfschiffahrt GmbH
 * Presentation (PDF version) - coming soon
 * [Presentation (Online version)](http://dockerized-web-dev.codedge.de)
 
 ### April
 
 #### Echtzeit Webanwendungen mit RethinkDB und Websockets
-Tobias Gall | Master Student at TU Chemnitz
+Tobias Gall | Master Student at [TU Chemnitz](https://tu-chemnitz.de)
 * [Presentation](2017/04-April/Rethinkdb%20%26%20Websockets.pdf)
 
 #### I am developer
