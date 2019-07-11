@@ -3,6 +3,18 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 
 ## 2019
 
+### May
+#### Fast and Beautiful Images
+Doug Sillars | [dougsillars.com](https://dougsillars.com)
+* [Slides](2019/05-May/fastandbeautifulchemnitz-190530150101.pdf)
+* [Video](https://youtu.be/KAr-KpPbAI4)
+
+#### Getting started with Business Metrics
+Holger Woltersdorf | [Twitter](https://twitter.com/hollodotme) | [GitHub](https://github.com/hollodotme) | [hollo.me](https://hollo.me) | Head of FORTUNE SOLUTIONS at [Fortuneglobe GmbH](https://www.fortuneglobe.com) 
+* [Slides](2019/05-May/Getting-Started-With-Business-Metrics.pdf)
+* [Example](https://github.com/php-usergroup-dresden/business-metrics-for-starters)
+* [Video](https://youtu.be/AZXyPdfz948)
+
 ### April
 #### Continuous Integration & Drone CI
 Morris Jobke | [Nextcloud](https://github.com/nextcloud) maintainer [Nextcloud GmbH](https://nextcloud.com) [morrisjobke.de](https://morrisjobke.de)
