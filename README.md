@@ -2,6 +2,10 @@
 Place to share presentation material from the monthly Web Developer Meetup in Chemnitz
 
 ## 2019
+### August
+#### X-Browser-Testing mit Browserstack
+Leo Lindhorst | [Twitter](https://twitter.com/devwurm) | [GitHub](https://github.com/devwurm) | [LinkedIn](https://www.linkedin.com/in/leolindhorst/) | Cloud- & Web-Developer at [Saxonia Systems AG](https://www.sogehtsoftware.de)
+* [Presentation](2019/07-August/Browserstack.pdf)
 
 ### July
 #### Event Sourcing
