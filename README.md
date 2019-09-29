@@ -3,6 +3,15 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 
 ## 2019
 
+### September
+
+#### Massig Fotos und Videos von DSLR sinnvoll archivieren
+Ronny Hartenstein | [Twitter](https://twitter.com/rhflow_de) | [GitHub](https://github.com/ronnyhartenstein) | [rh-flow.de](https://blog.rh-flow.de) | [Axilaris GmbH](https://axilaris.de)
+* [Presentation](2019/09-September/Massig_Fotos_und_Videos_sinnvoll_archivieren.pdf)
+* [Google Presentation](https://docs.google.com/presentation/d/1-qfqH7VzoOWyjwrzu7xy3PqIZ2nZ5um_KucsZzQhjI4/edit?usp=sharing)
+* [Scripte: Auto-NEF-Thumbnailer and Auto-MP4-Shrinker for Nextcloud](https://github.com/ronnyhartenstein/Image-and-Video-Thumbnailer)
+* [Scripte: Getaggte Foto-Sammlung für Druck aufbereiten](https://github.com/ronnyhartenstein/fotos-mac-tags-druck)
+
 ### July
 #### Event Sourcing
 Ronny Hartenstein | [Twitter](https://twitter.com/rhflow_de) | [GitHub](https://github.com/ronnyhartenstein) | [rh-flow.de](https://blog.rh-flow.de) | PHP architect at [Axilaris GmbH](https://axilaris.de)
