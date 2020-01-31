@@ -4,10 +4,11 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 ## 2020
 ### January
 #### VueJs in the wild
-Paul Spenke | [GitHub](https://github.com/deepDiverPaul) | [vuejs.org](https://vuejs.org/v2/guide/) | WebDev @ [mailingwork GmbH](https://mailingwork.de.de)
+Paul Spenke | [GitHub](https://github.com/deepDiverPaul) | [vuejs.org](https://vuejs.org/v2/guide/) | WebDev @ [mailingwork GmbH](https://mailingwork.de)
 
 * [Presentation](2020/01-January/VueJs-in-the-wild.pdf)
 * [Presentation Source](2020/01-January/source/index.html)
+  (created with [reveal.js](https://github.com/hakimel/reveal.js/))
 
 ## 2019
 ### September
