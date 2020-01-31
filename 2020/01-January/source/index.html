@@ -1,0 +1,400 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/moon.css">
+<!--		<link rel="stylesheet" href="css/print/pdf.css">-->
+
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
+
+		<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+		<script src="https://kit.fontawesome.com/977651eddf.js" crossorigin="anonymous"></script>
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/monokai.css">
+
+		<style>
+			.fab.fa-vuejs{
+				color: #42b883;
+			}
+			.fab.fa-react{
+				color: #60dafb;
+			}
+			.fab.fa-angular{
+				color: #dd1b16;
+			}
+			.fab.fa-js{
+				color: #f0db4f;
+			}
+			.fa-heart{
+				color: #f01a2b;
+			}
+			.big{
+				font-size: 1.6em;
+			}
+			.small{
+				font-size: 0.6em;
+			}
+			.bumpy{
+				padding-right: 0.4em;
+				padding-left: 0.4em;
+			}
+			pre{
+				padding: 0 !important;
+			}
+			.vue{
+				border: 1px #ddd solid;
+				background-color: #ffffff24;
+				margin: 0 3em;
+				padding: .2em;
+			}
+
+		</style>
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section data-transition="fade">
+					<img src="img/vue.png" width="50%" class="no-border" style="background: none;border: none;box-shadow: none;">
+				</section>
+				<section>
+					<p>
+						<img src="img/psp_.jpg" alt="" style="width:230px;">
+					</p>
+					<h2 class="fragment slide">
+						Paul Spenke
+					</h2>
+					<span class="fragment slide is-size-5">
+						#Engineer
+					</span>
+					<span class="fragment slide  is-size-5">
+						#Webdeveloper
+					</span>
+					<span class="fragment slide  is-size-5">
+						#HungryFoolish
+					</span>
+					<p class="fragment slide">
+						<i class="fab fa-github"></i> deepDiverPaul
+					</p>
+				</section>
+				<section>
+					I <i class="far fa-heart"></i> <i class="fab fa-js"></i>
+				</section>
+				<section>
+					<h1>
+						<span class="fragment bumpy"><i class="fab fa-vuejs"></i></span>
+						<span class="fragment bumpy"><i class="fab fa-angular"></i></span>
+						<span class="fragment bumpy"><i class="fab fa-react"></i></span>
+					</h1>
+				</section>
+				<section>
+					<h2 class="fragment  fade-in-then-semi-out">Comparison</h2>
+					<table>
+						<thead>
+						<tr class="fragment">
+							<th></th>
+							<th class="big has-text-centered"><i class="fab fa-vuejs"></i></th>
+							<th class="big has-text-centered"><i class="fab fa-angular"></i></th>
+							<th class="big has-text-centered"><i class="fab fa-react"></i></th>
+						</tr>
+						</thead>
+						<tbody>
+						<tr class="fragment">
+							<td>Start</td>
+							<td class="has-text-centered">2014</td>
+							<td class="has-text-centered">2010<br><span class="small">2016</span></td>
+							<td class="has-text-centered">2013</td>
+						</tr>
+						<tr class="fragment">
+							<td>Creator</td>
+							<td class="has-text-centered"><i class="fas fa-users"></i></td>
+							<td class="has-text-centered"><i class="fab fa-google"></i></td>
+							<td class="has-text-centered"><i class="fab fa-facebook"></i></td>
+						</tr>
+						<tr class="fragment">
+							<td>Stargazers</td>
+							<td class="has-text-centered">156k</td>
+							<td class="has-text-centered">117k</td>
+							<td class="has-text-centered">143k</td>
+						</tr>
+						<tr class="fragment">
+							<td>Contributors</td>
+							<td class="has-text-centered">286</td>
+							<td class="has-text-centered">2657</td>
+							<td class="has-text-centered">1353</td>
+						</tr>
+						<tr class="fragment">
+							<td>Size</td>
+							<td class="has-text-centered">80KB</td>
+							<td class="has-text-centered">500+KB</td>
+							<td class="has-text-centered">100KB</td>
+						</tr>
+						</tbody>
+					</table>
+				</section>
+				<section data-background-iframe="https://hasvuepassedreactyet.surge.sh" data-background-interactive></section>
+				<section>
+					<h2>Similarities</h2>
+					<p class="fragment">based on components</p>
+					<p class="fragment">active community</p>
+					<p class="fragment">MIT license</p>
+					<p class="fragment">Plugins for major IDEs</p>
+
+				</section>
+				<section>
+					<h2><i class="fab fa-vuejs"></i> Advantages 👍</h2>
+					<p class="fragment">easy to learn and read, single-file-components</p>
+					<p class="fragment">reactive two-way data binding</p>
+					<p class="fragment">virtual DOM</p>
+					<p class="fragment">documentation</p>
+					<p class="fragment">easy to integrate into existing projects</p>
+				</section>
+				<section>
+					<h2><i class="fab fa-vuejs"></i> Disadvantages 👎</h2>
+					<p class="fragment">easy to create messy code</p>
+					<p class="fragment">too much flexibility</p>
+					<p class="fragment">complex reactivity-system</p>
+					<p class="fragment">no of support for projects in a large-scale</p>
+				</section>
+				<section>
+					<h2>How can I use <i class="fab fa-vuejs"></i></h2>
+					<pre class="fragment"><code class="hlhtml"><script src="https://cdn.jsdelivr.net/npm/vue"></script></code></pre>
+					<pre class="fragment"><code class="hlbash">npm install vue</code></pre>
+				</section>
+				<section>
+					<h2>Basic <i class="fab fa-vuejs"></i> Syntax</h2>
+					<pre class="fragment"><code class="hlhtml" data-line-numbers=""><div id="app">
+  {{ message }}
+</div></code></pre>
+					<pre class="fragment"><code class="hljs" data-line-numbers="">var app = new Vue({
+  el: '#app',
+  data: {
+    message: 'Hello Vue!'
+  }
+})</code></pre>
+					<div id="app1" class="vue fragment is-size-4">
+						{{ message }}
+					</div>
+					<script>
+						var app = new Vue({
+							el: '#app1',
+							data: {
+								message: 'Hello Vue!'
+							}
+						})
+					</script>
+				</section>
+				<section>
+					<h2><i class="fab fa-vuejs"></i>Loops & Bindings</h2>
+					<pre class="fragment"><code class="hlhtml" data-line-numbers="2"><div id="app">
+	<i v-for="icon in icons" :class="icon"></i>
+</div></code></pre>
+					<pre class="fragment"><code class="hljs" data-line-numbers="4-8">var app = new Vue({
+	el: '#app',
+	data: {
+		icons: [
+			'fab fa-vuejs',
+			'fab fa-react',
+			'fab fa-angular'
+		]
+	}
+})</code></pre>
+					<div id="app3" class="vue fragment is-size-4">
+						<i v-for="icon in icons" v-bind:class="icon" class="big bumpy"></i>
+					</div>
+					<script>
+						var app = new Vue({
+							el: '#app3',
+							data: {
+								icons: ['fab fa-angular', 'fab fa-react', 'fab fa-vuejs']
+							}
+						})
+					</script>
+				</section>
+				<section>
+					<h2><i class="fab fa-vuejs"></i> Actions & Methods</h2>
+					<pre class="fragment"><code class="hlhtml" data-line-numbers="2-3"><div id="app">
+	{{ counter }}
+	<button class="button" @click="add">+ 1</button>
+</div></code></pre>
+					<pre class="fragment"><code class="hljs" data-line-numbers="4,6-10">var app = new Vue({
+	el: '#app',
+	data: {
+		counter: 0
+	},
+	methods: {
+		add(){
+			this.counter += 1
+		}
+	}
+})</code></pre>
+					<div id="app4" class="vue fragment is-size-4">
+						{{ counter }} <button class="button" @click="add">+ 1</button>
+					</div>
+					<script>
+						var app = new Vue({
+							el: '#app4',
+							data: {
+								counter: 0
+							},
+							methods: {
+								add(){
+									this.counter += 1;
+								}
+							}
+						})
+					</script>
+				</section>
+				<section>
+					<h2><i class="fab fa-vuejs"></i> Conditions & Models</h2>
+					<pre class="fragment"><code class="hlhtml" data-line-numbers="2-4"><div id="app">
+	<input type="checkbox" v-model="show">
+	<input type="text" v-model="message">
+	<p v-if="show">{{ message }}</p>
+</div></code></pre>
+					<pre class="fragment"><code class="hljs" data-line-numbers="4-5">var app = new Vue({
+	el: '#app',
+	data: {
+		message: 'Hello Vue!',
+		show: true
+	}
+})</code></pre>
+					<div id="app2" class="vue fragment is-size-4">
+						<input type="checkbox" v-model="show">
+						<input type="text" v-model="message"><br>
+						<span v-if="show">{{ message }}</span>
+					</div>
+					<script>
+						var app = new Vue({
+							el: '#app2',
+							data: {
+								message: 'Hello Vue!',
+								show: true
+							}
+						})
+					</script>
+				</section>
+				<section>
+					<h2><i class="fab fa-vuejs"></i> Component Syntax</h2>
+					<pre class="fragment"><code class="hlhtml" data-line-numbers=""><template>
+  <div></div>
+</template>
+
+<script>
+export default {
+	name: 'HelloWorld',
+	data: {}
+}
+</script>
+
+<style scoped>
+
+</style></code></pre>
+				</section>
+				<section>
+					<h2><i class="fab fa-vuejs"></i> Component Declaration</h2>
+					<p class="fragment">*.vue File</p>
+					<pre class="fragment"><code class="hlhtml" data-line-numbers="">Vue.component('my-component-name', {
+	/* ... */
+})</code></pre>
+				</section>
+				<section>
+					<h2><i class="fab fa-vuejs"></i> Passing Props to Component</h2>
+					<pre class="fragment"><code class="hlhtml"><helloworld
+	message="Hello Vue!"
+	:show="true"
+/></code></pre>
+					<pre class="fragment"><code class="hljs" data-line-numbers="3-6">export default {
+	name: 'helloworld',
+	props: {
+		message: String,
+		show: Boolean
+	}
+}</code></pre>
+				</section>
+				<section>
+					<h2><i class="fab fa-vuejs"></i> Emit Events from Component</h2>
+					<pre class="fragment"><code class="hljs">this.$emit('myevent', payload)</code></pre>
+					<pre class="fragment"><code class="hlhtml"><HelloWorld
+	@myevent="handleEvent"
+/></code></pre>
+					<pre class="fragment"><code class="hljs" data-line-numbers="">methods: {
+	handleEvent(payload){
+		/* ... */
+	}
+}</code></pre>
+				</section>
+				<section>
+					<h2>Official <i class="fab fa-vuejs"></i> Tools/Addons</h2>
+					<p class="fragment">Vue CLI</p>
+					<p class="fragment">Vuex</p>
+					<p class="fragment">Vue-Router</p>
+					<p class="fragment">Vue Server Renderer</p>
+					<p class="fragment">Vue dev-tools</p>
+					<p class="fragment">Vue UI (beta)</p>
+				</section>
+
+				<section data-background-video="https://media.giphy.com/media/SUg6wFV6JDYuQ/giphy.mp4" data-background-video-loop data-background-video-muted>
+
+				</section>
+				<section>
+					<h2><i class="fab fa-vuejs"></i> in the 🌲🦁🌳</h2>
+					<p class="fragment">ToDo apps</p>
+					<p class="fragment">Serverless statusdisplays for conference-Rooms</p>
+					<p class="fragment">Event-management app</p>
+					<p class="fragment">Icon-generator</p>
+					<p class="fragment">Advanced landingpages</p>
+					<p class="fragment"><a href="https://madewithvuejs.com">madewithvuejs.com</a></p>
+				</section>
+				<section>
+					<h2>Outlook <i class="fab fa-vuejs"></i> v3</h2>
+					<p class="fragment">based on typescript</p>
+					<p class="fragment">exposed reactivity API</p>
+					<p class="fragment">components Class-based not Object-based<br><span class="small">(internal transformer for backwards-compatibility)</span></p>
+					<p class="fragment">composition-api</p>
+					<p class="fragment">smaller runtime</p>
+				</section>
+				<section>
+					<h1>🖖   🙏</h1>
+					<p><a href="https://github.com/vuejs/awesome-vue">github.com/vuejs/awesome-vue</a></p>
+				</section>
+			</div>
+		</div>
+
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				controls: false,
+				progress: false,
+				pdfSeparateFragments: false,
+				hash: true,
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/highlight/highlight.js' },
+					{ src: 'plugin/notes/notes.js', async: true }
+				]
+			});
+		</script>
+	</body>
+</html>

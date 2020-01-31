@@ -1,6 +1,14 @@
 # WebDeveloperChemnitz
 Place to share presentation material from the monthly Web Developer Meetup in Chemnitz
 
+## 2020
+### January
+#### VueJs in the wild
+Paul Spenke | [GitHub](https://github.com/deepDiverPaul) | [vuejs.org](https://vuejs.org/v2/guide/) | WebDev @ [mailingwork GmbH](https://mailingwork.de.de)
+
+* [Presentation](2020/01-January/VueJs-in-the-wild.pdf)
+* [Presentation Source](2020/01-January/source/index.html)
+
 ## 2019
 ### September
 #### Massig Fotos und Videos von DSLR sinnvoll archivieren
