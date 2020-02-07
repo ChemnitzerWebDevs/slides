@@ -1,5 +1,6 @@
 ## Talk description
-(Please also name frameworks that you promote/use in your talk.)
+
+Please do not forget to drag & drop a teaser image here and also name frameworks that you promote/use in your talk.
 
 ## Talk length (in Minutes)
 
@@ -24,21 +25,25 @@ We are happy to help!
 - ...
 
 ## Speaker names
-(Please name all speakers giving this talk.)
+
+Please name all speakers giving this talk.
 
 - Your full name here
 
 ## Speakers info
+
 (Optional)
 
 - Your company, your position, etc.
 
 ## Twitter handle(s)
+
 (Optional, we usually announce speakers via https://twitter.com/webdevchem)
 
 - @webdevchem
 
 ## Other links
+
 (Optional, Blog, github, medium, facebook, etc.)
 
 - https://...
