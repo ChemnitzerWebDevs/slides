@@ -2,6 +2,16 @@
 Place to share presentation material from the monthly Web Developer Meetup in Chemnitz
 
 ## 2020
+### February
+#### Künstliche Intelligenz im Browser?!
+Max Rose | [LinkedIn](https://www.linkedin.com/in/rose-max/) | Founder of [audory](https://audory.io)
+
+* [Presentation](2020/02-February/KuenstlicheIntelligenzImBrowser.pdf)
+* [Quellen](2020/02-February/Quellen.pdf)
+* [Tensorflow.js](https://www.tensorflow.org/js)
+* [Teachable Machine Live Demo](https://teachablemachine.withgoogle.com/)
+
+## 2020
 ### January
 #### VueJs in the wild
 Paul Spenke | [GitHub](https://github.com/deepDiverPaul) | [vuejs.org](https://vuejs.org/v2/guide/) | WebDev @ [mailingwork GmbH](https://mailingwork.de)
