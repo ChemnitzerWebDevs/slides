@@ -1,6 +1,15 @@
 # WebDeveloperChemnitz
 Place to share presentation material from the monthly Web Developer Meetup in Chemnitz
 
+## 2021
+#### November
+#### HTMX: HTML Fragments over the Wire Framework
+Thomas Güttler
+
+* [Presentation](https://docs.google.com/presentation/d/12dgaBnUgl4cmEkiOhUJL5hsbGQ6hB5sslDuozmBjVUA/edit#slide=id.gd91aac229a_0_24)
+* [Demo Project on Github](https://github.com/guettli/django-htmx-fun)
+* [HTMX Website](https://htmx.org)
+
 ## 2020
 ### February
 #### Künstliche Intelligenz im Browser?!
