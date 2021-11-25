@@ -6,7 +6,7 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 #### HTMX: HTML Fragments over the Wire Framework
 Thomas Güttler
 
-* [Presentation](https://docs.google.com/presentation/d/12dgaBnUgl4cmEkiOhUJL5hsbGQ6hB5sslDuozmBjVUA/edit#slide=id.gd91aac229a_0_24)
+* [Presentation](https://docs.google.com/presentation/d/12dgaBnUgl4cmEkiOhUJL5hsbGQ6hB5sslDuozmBjVUA/edit#slide=id.gee53fd12c3_0_7)
 * [Demo Project on Github](https://github.com/guettli/django-htmx-fun)
 * [HTMX Website](https://htmx.org)
 
