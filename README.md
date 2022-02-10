@@ -10,6 +10,14 @@ Thomas Güttler
 * [Demo Project on Github](https://github.com/guettli/django-htmx-fun)
 * [HTMX Website](https://htmx.org)
 
+## 2021
+### September
+#### Schwarmintelligenz selbst programmieren
+Max Rose | [LinkedIn](https://www.linkedin.com/in/rose-max/) | Founder of [audory](https://audory.io)
+
+* [Presentation](2021/09-September/Schwarmintelligenz.pdf)
+* [Quellen](2020/09-September/Quellen.pdf)
+
 ## 2020
 ### February
 #### Künstliche Intelligenz im Browser?!
