@@ -2,13 +2,20 @@
 Place to share presentation material from the monthly Web Developer Meetup in Chemnitz
 
 ## 2021
-#### November
+### November
 #### HTMX: HTML Fragments over the Wire Framework
 Thomas Güttler
 
 * [Presentation](https://docs.google.com/presentation/d/12dgaBnUgl4cmEkiOhUJL5hsbGQ6hB5sslDuozmBjVUA/edit#slide=id.gee53fd12c3_0_7)
 * [Demo Project on Github](https://github.com/guettli/django-htmx-fun)
 * [HTMX Website](https://htmx.org)
+
+### September
+#### Schwarmintelligenz selbst programmieren
+Max Rose | [LinkedIn](https://www.linkedin.com/in/rose-max/) | Founder of [audory](https://audory.io)
+
+* [Presentation](2021/09-September/Schwarmintelligenz.pdf)
+* [Quellen](2021/09-September/Quellen.pdf)
 
 ## 2020
 ### February
@@ -20,7 +27,6 @@ Max Rose | [LinkedIn](https://www.linkedin.com/in/rose-max/) | Founder of [audor
 * [Tensorflow.js](https://www.tensorflow.org/js)
 * [Teachable Machine Live Demo](https://teachablemachine.withgoogle.com/)
 
-## 2020
 ### January
 #### VueJs in the wild
 Paul Spenke | [GitHub](https://github.com/deepDiverPaul) | [vuejs.org](https://vuejs.org/v2/guide/) | WebDev @ [mailingwork GmbH](https://mailingwork.de)
