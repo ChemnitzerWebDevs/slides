@@ -1,6 +1,15 @@
 # WebDeveloperChemnitz
 Place to share presentation material from the monthly Web Developer Meetup in Chemnitz
 
+## 2022
+### November
+#### Kubernetes, Golang & Cluster-API
+Thomas Güttler
+
+* [Presentation](//docs.google.com/presentation/d/1VG0XtUK48aJ7FITC9A7vuiI9h8YLRBgqHq7oqxFiofY/edit?usp=sharing)
+* [Go-Kube-Example Project on Github](//github.com/guettli/go-kube-example)
+* [Kubernetes Website](//kubernetes.io)
+
 ## 2021
 ### November
 #### HTMX: HTML Fragments over the Wire Framework
