@@ -3,6 +3,13 @@ Place to share presentation material from the monthly Web Developer Meetup in Ch
 
 ## 2022
 ### November
+#### Docker Up Your Development Environment
+Daniel Schröder | Chief Executive and Web-Architect at [skriptfabrik GmbH](https://skriptfabrik.com)
+
+* [Presentation](2022/11-November/Docker-Up-Your-Development-Environment.pdf)
+* [Hello Docker Project on Github](//github.com/schroedan/hello-docker)
+
+### October
 #### Kubernetes, Golang & Cluster-API
 Thomas Güttler
 
