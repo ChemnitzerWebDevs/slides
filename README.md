@@ -1,6 +1,13 @@
 # WebDeveloperChemnitz
 Place to share presentation material from the monthly Web Developer Meetup in Chemnitz
 
+## 2023
+### February
+#### Introduction to Graph Databases and Cypher Query Language
+Sören Klein
+
+* [Presentation](2023/02-February/Introduction-to-Graph-Databases-and-Cypher-Query-Language.pdf)
+
 ## 2022
 ### November
 #### Docker Up Your Development Environment
